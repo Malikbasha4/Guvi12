@@ -22,15 +22,19 @@ html,body {
 	overflow: hidden;
 	
 	&::after {
-		content: '';
-		opacity: .8;
-		position: absolute;
-		top: 0;right:0;bottom:0;left:0;
-		background-repeat: no-repeat;
-		background-position: left bottom;
-		background-size: 500px;
-		background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fw0.peakpx.com%2Fwallpaper%2F715%2F183%2FHD-wallpaper-website-neon-icon-blue-background-neon-symbols-website-creative-neon-icons-website-sign-computer-signs-website-icon-computer-icons.jpg&tbnid=FKr5jdcdTZJ2qM&vet=12ahUKEwicgcWcz-yDAxXJlmMGHZ8AAaoQMygEegQIARBW..i&imgrefurl=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-kpcaa&docid=0rfMxoCvJ0W4mM&w=800&h=500&q=image%20%20of%20website%20hd%20creative&ved=2ahUKEwicgcWcz-yDAxXJlmMGHZ8AAaoQMygEegQIARBW');
-	}
+  content: '';
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 500px;
+  background-image: url('file:///C:/Users/Admin/Downloads/webimages.jpg');
+}
+
 	
 	.signup {
 		position: absolute;
